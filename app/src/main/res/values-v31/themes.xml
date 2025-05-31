@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MySplashScreen" parent="Theme.JetpackCompose1">
+        <item name="android:windowSplashScreenBackground">@color/green</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/image</item>
+        <item name="postSplashScreenTheme">@style/Theme.JetpackCompose1</item>
+    </style>
+</resources>

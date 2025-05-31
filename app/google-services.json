@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300549173183",
+    "project_id": "loginjcauth",
+    "storage_bucket": "loginjcauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300549173183:android:d30ec6fe6c44077d98bb0a",
+        "android_client_info": {
+          "package_name": "com.example.loginjcauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPgWT2-IH-qOkRYBXUy9-P2LN2wvFKiJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
